@@ -37,6 +37,9 @@ body {
     border: 1px dotted blue;
 }
 
+.topic {
+    font-size: 8px;
+}
 /*
 Stretch goals:
 Find other ways you can personalize 
